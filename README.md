@@ -11,10 +11,10 @@ L'objectif de ce projet est d'avoir les consommations électriques de tous les c
 
 -Actionneurs : comme son nom l'indique sert à faire une action pour effectuer un mouvement physique à partir d'une énergie (mécanique,) 
 
--Capteurs ; un appareil qui détecte un 
+- Capteurs ; un appareil qui détecte un 
 
--Commande ou interrupteur intelligent 
+- Commande ou interrupteur intelligent 
 
--Accessoires Electriques
+- Accessoires Electriques
 
--Calculateurs 
+- Calculateurs 
