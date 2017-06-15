@@ -6,3 +6,5 @@ L'objectif de ce projet est d'avoir les consommations électriques de tous les c
 
 - Python avec le framework Flask au niveau du backend
 - Angular JS ou Angular II au niveau du frontend
+
+- Test
