@@ -1,6 +1,6 @@
 # Dimensionnement Electrique
 
-L'objectif de ce projet c'est d'avoir les consommations électriques de certains systèmes afin d'avoir la puissance électrique 
+L'objectif de ce projet est d'avoir les consommations électriques de tous les consommateurs de la batterie puis d'en déduire l'autonomie, la puissance électrique... du véhicule 
 
 # Technologies utilisées
 
