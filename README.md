@@ -18,3 +18,35 @@ L'objectif de ce projet est d'avoir les consommations électriques de tous les c
 - Accessoires Electriques
 
 - Calculateurs 
+
+# Repartition des différents organes 
+
+- Habitacle
+
+- Compatriment Moteur 
+
+- Eclairage
+
+- ...
+
+# Les niveaux d'alimentations 
+
+- Directement sur la batterie
+
+- Le BatTempo
+
+- l'Aprés Contact (APC)
+
+- Moteur Tournant 
+
+# Le Type de reveil 
+
+- Par CAN
+
+- En BatTempo
+
+- En Aprés contact 
+
+- En Moteur tournant
+
+- ... 
