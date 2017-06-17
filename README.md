@@ -50,3 +50,29 @@ L'objectif de ce projet est d'avoir les consommations électriques de tous les c
 - En Moteur tournant
 
 - ... 
+
+# L'architectures et les projets
+
+- Première 
+	
+	- A
+
+	- B
+
+	- D 
+
+	- E
+
+	- F
+
+- Deuxième 
+	
+	- G
+
+	- H
+
+	- I 
+
+	- J
+
+	- K
