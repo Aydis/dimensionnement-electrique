@@ -51,7 +51,7 @@ L'objectif de ce projet est d'avoir les consommations électriques de tous les c
 
 - ... 
 
-# L'architectures et les projets
+# L'architecture et les projets
 
 - Première 
 	
