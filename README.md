@@ -32,7 +32,7 @@ L'objectif de ce projet est d'avoir les consommations électriques de tous les c
 	- J
 
 	- K
-	
+
 # Description des systèmes 
 
 - Actionneurs : comme son nom l'indique sert à faire une action pour effectuer un mouvement physique à partir d'une énergie (mécanique,) 
@@ -77,4 +77,16 @@ L'objectif de ce projet est d'avoir les consommations électriques de tous les c
 
 - ... 
 
+# La consommation électrique 	
 
+- niveau 0
+
+- niveau 1
+
+- niveau 2
+
+- niveau 3
+
+- niveau 4
+
+- niveau 5
