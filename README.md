@@ -7,6 +7,32 @@ L'objectif de ce projet est d'avoir les consommations électriques de tous les c
 - Python avec le framework Flask au niveau du backend
 - Angular JS ou Angular II au niveau du frontend
 
+# L'architecture et les projets
+
+- Première 
+	
+	- A
+
+	- B
+
+	- D 
+
+	- E
+
+	- F
+
+- Deuxième 
+	
+	- G
+
+	- H
+
+	- I 
+
+	- J
+
+	- K
+	
 # Description des systèmes 
 
 - Actionneurs : comme son nom l'indique sert à faire une action pour effectuer un mouvement physique à partir d'une énergie (mécanique,) 
@@ -51,28 +77,4 @@ L'objectif de ce projet est d'avoir les consommations électriques de tous les c
 
 - ... 
 
-# L'architecture et les projets
 
-- Première 
-	
-	- A
-
-	- B
-
-	- D 
-
-	- E
-
-	- F
-
-- Deuxième 
-	
-	- G
-
-	- H
-
-	- I 
-
-	- J
-
-	- K
